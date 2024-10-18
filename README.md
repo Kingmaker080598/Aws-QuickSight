@@ -1,4 +1,4 @@
-# Netflix Data Analysis Dashboard
+# Netflix Data Analysis Dashboard using QuickSight
 
 This repository contains the Netflix data analysis project, visualized using Amazon QuickSight. The dashboard provides insights into Netflix's catalog, including release years, types of content, and genres.
 
